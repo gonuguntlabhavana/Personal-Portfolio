@@ -81,8 +81,8 @@ images/contact.png
 
 ## 📬 Contact
 
-- Email: youremail@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email:gonuguntlabhavana06@gmail.com
+- LinkedIn:https://www.linkedin.com/in/bhavana-gonuguntla-a41290378?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - GitHub: https://github.com/yourusername
 
 ## ⭐ Future Improvements
